@@ -1,1 +1,42 @@
-This is a new file
+#@@@@@@@@@@@@@@@@@@@@@@@@@@ Git Basics
+
+# Download Git https://git-scm.com/downloads
+ # Install. Windows: Use settings that are adequate for Windows
+
+# Create account https://github.com/
+
+# REMOTE WORK (online)
+ # Create a copy of someone else's repository = FORK
+   # Search tab in our git.hub profile: name of the user we want to fork. e.g. <AgusLespi>
+   # Click on the respository
+   # Click button Fork (upper right corner)
+   # Done. 
+
+# DOWNLOAD REMOTE TO LOCAL (our computer)
+ # 1. Open Git
+   # Windows: CMD. Press Win + R and then type cmd or cmd.exe
+   # Mac: PENDING
+
+ # 2. Create a folder to store locally the remote repository
+   # Explore folder directory
+     $ dir
+   # Create folder
+     $ cd Desktop/
+   # Check directory contents
+     $ ls
+   # Create directory
+     $ mkdir Taller_Git	
+   # Check directory contents
+     $ ls
+   # Download remote repository = CLONE
+     # Go to your git.hub account online
+     # Clone tab: copy repository url 
+     # Go back to git (or CMD) console
+     $ git clone copy.your.url	
+	# If you can't, try right-click on the title bar of the command window and select 'Properties', then on the 'Options' tab tick the box for the 'QuickEdit mode', then click 'Ok'.
+
+
+
+
+
+
