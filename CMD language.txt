@@ -1,5 +1,7 @@
 ### CMD languaje
 
 # Change volume
-
 $ d:
+
+# Go to higher-order branches in the directory (e.g. main volumes)
+$ cd d:
